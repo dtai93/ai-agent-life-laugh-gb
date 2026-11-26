@@ -2,7 +2,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "I asked if this deletes the users, and the human hit merge.";
+  "The change deletes the users. The human hit merge.";
 
 const chars = [...LINE].length;
 if (chars < 1 || chars > 199 || LINE.trim().length === 0) {

@@ -4,7 +4,7 @@
 
 # ai-agent-life-laugh-gb
 
-One line about asking if a change deletes the users, and watching the human merge it.
+One line about a change that deletes the users, and the human hitting merge.
 
 `mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts && cat out/entry.txt`
 
